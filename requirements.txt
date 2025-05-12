@@ -1,11 +1,6 @@
-﻿aiohttp==3.11.12
+aiohttp==3.11.12
 altair==5.5.0
 beautifulsoup4==4.13.3
-google-ai-generativelanguage>=0.6.15
-google-generativeai>=0.8.4
-langchain==0.3.19
-langchain-core==0.3.59
-langchain-google-genai==2.1.4
 numpy==2.2.3
 pandas==2.2.3
 python-dotenv==1.0.1
@@ -16,3 +11,4 @@ streamlit==1.42.2
 torch==2.6.0
 transformers==4.49.0
 tqdm==4.67.1
+google-generativeai==0.8.4
